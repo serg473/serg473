@@ -17,7 +17,7 @@
 
 ### 💬 Contact with me: 
 <div> 
-  <a href="https://t.me/imax473" target="_blank"><img  width="100" src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-3.jpg" target="_blank">
+  <a href="https://t.me/imax473" target="_blank"><img  width="100" src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-3.jpg" target="_blank"></a>
   <a href="https://www.instagram.com/sergei_dsi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:imax473@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sergeidsi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
