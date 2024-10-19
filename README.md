@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi I'm Gevork Sarkisyan👋</h1>
+<h1 align="center">Sergei Dubinka👋</h1>
 
 <h3 align="center">Frontend Developer</h3>
 
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.licdn.com/dms/image/v2/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674661110?e=1734566400&v=beta&t=eIF9CYndwIeDbo0qIg6xJhMtjz-j4ePU5sRR47P1G0M)" width="600" height="300"/>
 </div>
 
 ---
